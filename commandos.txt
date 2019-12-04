@@ -1,0 +1,16 @@
+| init	 = Der Befehl erzeugt ein Unterverzeichnis .git
+| config = git config bietet  die Möglichkeit Konfigurationswerte zu verändern.
+| clone  = Der Befehl git clone kopiert ein bestehendes Git-Repository. 
+| add    = Mit git add kann man die neuen Datei zu seinem Reposetory hinzufügen
+| rm 	 = Löscht aus einen File
+| commit = Commit nichts anderes als ein Schnappschuss eines bestimmten Versionsstandes. 
+| remote = remote ist für die Synchronisierung von Änderungen zuständig ist.
+| push   = Mit push wird dein Arbeitsrep in dein online Brach gelanden.
+| pull	 = Mit pull wir dein Arbeitsrep aktualisiert.
+| status = Mit status wird der Zustand überprüft in welchen sich deine Datein befinden.
+| diff   = Mit diff kannst du dir die Differenz zwei branches anchauen.	
+| reset  = Mit git reset kannst du alle geänderten Dateien aus dem Index entfernen.
+| log    = Standardmäßig listet  log, ohne Argumente, die in diesem Repository vorgenommenen Commits in umgekehrter chronologischer Reihenfolge auf
+| branch = Ein branch ist im endefekt eine Version vom MAster branch. Dort werden zb neue Features entwickelt.	
+| checkout= Mit checkout kann man Änderungen ruckgängig machen. 
+| merge  = Der Befehl git merge ermöglicht es uns, die unabhängigen Entwicklungslinien, die wir mit git branch erstellt haben, in einen einzelnen Branch zu integrieren.
